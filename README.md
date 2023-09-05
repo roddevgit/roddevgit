@@ -1,5 +1,5 @@
 ### Olá! Hello! Salut! 👋 (em breve disponível em francês) (soon available in french) 😊🇫🇷
-## 🇺🇸
+## :us:
  - This Github is about projects that I made for my own reasons, and some contributions I do on other repositories. 🙃
  - These projects that I made serves as a portfolio. If you like any project, feel free to fork, contribute, or just contact me for future projects! ✉️ 😉
  - Each repo has a *readme* file both in US english (eng-us) and brazilian portuguese (pt-br) with a brief information.
