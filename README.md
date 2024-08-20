@@ -6,4 +6,4 @@
 ## 🇧🇷
  - Este Github é sobre contribuições que faço e / ou participo de alguma forma. 🙃
  - Possuo projetos pessoais e outros que foram usados de forma profissionalmente. 💻
- - Pode contribuir (fork or commits) de acordo com a licença do repositório. 🔄
+ - Pode contribuir (fork ou commits) de acordo com a licença do repositório. 🔄
