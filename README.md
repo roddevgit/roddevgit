@@ -1,5 +1,5 @@
 ### Olá! Hello! Salut! 👋 
-## :us:
+## 🇬🇧:
  - This Github is about contributions I made or in some way participated. 🙃
  - I have personal projects and others that have been used professionally. 💻
  - You can contribute (fork or commits) according to the repository license. 🔄
